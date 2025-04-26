@@ -9,18 +9,18 @@ online blood bank system
 
 3.Download project from github(https://github.com/sri-priya28/blood-bank.git).
 
-Extract files in C:\xampp\htdocs.
+4.Extract files in C:\xampp\htdocs.
 
-Open link localhost/phpmyadmin
+5.Open link localhost/phpmyadmin
 
-Click on new at side navbar.
+6.Click on new at side navbar.
 
-Give a database name as (blood_bank) hit on create button.
+7.Give a database name as (blood_bank) hit on create button.
 
-After creating database name click on import.
+8.After creating database name click on import.
 
-Browse the file in directory[BDMS/sql/blood_bank.sql].
+9.Browse the file in directory[BDMS/sql/blood_bank.sql].
 
-After importing successfully.
+10.After importing successfully.
 
-Open any browser and type http://localhost/BDMS/home.php to open User layout.
+11.Open any browser and type http://localhost/BDMS/home.php to open User layout.
